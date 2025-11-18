@@ -1,6 +1,5 @@
 # Android-TCF-Analysis-Data
-This GitHub is dedicated to datasets mentioned in the Masters Thesis: Automatic Privacy Analysis
-of TCF-based Android Applications written by Joel Ahlinder & Pontus Carlsson, which can be accessed here: 
+This repository presents the raw datasets related to the research paper "Automatic Privacy Analysis and Compliance of TCF-based Android Applications".
 
 ## Description of the files
 Hereby follows descriptions of the file contents.
