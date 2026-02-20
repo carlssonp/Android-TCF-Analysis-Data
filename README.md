@@ -24,3 +24,5 @@ Hereby follows descriptions of the file contents.
 - Contains the data gathered from our second stage of traffic analysis (active)
   - Follows the same structure as traffic_analysis_stage_1
   - *'Analysis'* contains another option called **'Dialog Interaction'**, meaning data collected before or during dialog interaction 
+### traffic_analysis_stage_x_dev_violations.csv
+- Contains data that specifies the proportion of violations for both stages, grouped by developer. 
